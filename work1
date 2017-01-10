@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>We are number one</title>
+</head>
+<body>
+<h1>We are number one</h1>
+<p>This shit cool right? </p>
+<a href="https://www.youtube.com/watch?v=PfYnvDL0Qcw" target="_blank">Click Here</a>
+<p>Ma oskan asju kirja panna nt nii:</p>
+<ul>
+<li>Üks</li>
+<li>Kaks</li>
+<li>Kolm</li>
+<li>Ja neli</li>
+</ul>
+<p>Siia võib veel teksti panna</p>
+<img src= https://i.ytimg.com/vi/tYoDw8uCmRQ/maxresdefault.jpg />
+</body>
+</html>
